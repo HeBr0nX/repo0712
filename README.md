@@ -1,5 +1,5 @@
 # Naslov
 Ovo je neki tekst
 
-## Podnaslov
-Ovo je neki drugi text
+# Naslov2
+Ovo je ispod drugog naslova
